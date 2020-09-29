@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Title "Filco TKL Replacement Controller"
+Date "2020-09-29"
+Rev "1.0"
+Comp "Markus Knutsson <markus.knutsson@tweety.se>"
+Comment1 "https://github.com/TweetyDaBird/"
+Comment2 "Licensed under CERN-OHL-S v2 or any later version"
 Comment3 ""
 Comment4 ""
 $EndDescr
