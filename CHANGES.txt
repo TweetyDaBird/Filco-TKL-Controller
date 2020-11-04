@@ -9,3 +9,4 @@ or altered in doing so, and the file must be included with the published
 modified source.
 
 2020-09-20 Markus Knutsson - Initial publication of source
+2020-11-04 Markus Knutsson - Revised PCB and source v1.05
